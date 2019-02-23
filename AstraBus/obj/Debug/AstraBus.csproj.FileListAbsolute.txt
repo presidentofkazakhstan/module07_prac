@@ -1,0 +1,7 @@
+C:\Users\ТынышбаевА\source\repos\AstraBus\AstraBus\bin\Debug\AstraBus.exe.config
+C:\Users\ТынышбаевА\source\repos\AstraBus\AstraBus\bin\Debug\AstraBus.exe
+C:\Users\ТынышбаевА\source\repos\AstraBus\AstraBus\bin\Debug\AstraBus.pdb
+C:\Users\ТынышбаевА\source\repos\AstraBus\AstraBus\obj\Debug\AstraBus.csprojAssemblyReference.cache
+C:\Users\ТынышбаевА\source\repos\AstraBus\AstraBus\obj\Debug\AstraBus.csproj.CoreCompileInputs.cache
+C:\Users\ТынышбаевА\source\repos\AstraBus\AstraBus\obj\Debug\AstraBus.exe
+C:\Users\ТынышбаевА\source\repos\AstraBus\AstraBus\obj\Debug\AstraBus.pdb
